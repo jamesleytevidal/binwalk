@@ -242,7 +242,7 @@ install_yaffshiv
 install_jefferson
 install_ubireader
 
-if [ $distro_version = "18" ]
+if [ $distro_version = "22" ]
 then
 install_cramfstools
 fi
